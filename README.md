@@ -1,4 +1,4 @@
-## Ola me chamo Matheus!!! 👋
+## Ola, me chamo Matheus!!! 👋
 
 <div align="center" >
   <a href="https://github.com/Mathwz7">
