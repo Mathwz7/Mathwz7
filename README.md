@@ -1,6 +1,6 @@
 ## Ola me chamo Matheus!!! 👋
 
-<div align="center" justify-content: center;>
+<div align="center" justify-content: 20px;>
   <a href="https://github.com/Mathwz7">
   <img width="42%" height="195em" src="https://github-readme-stats.vercel.app/api?username=Mathwz7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="42%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathwz7&layout=compact&langs_count=7&theme=dark"/>
